@@ -22,10 +22,14 @@ I'm currently a Frontend Developer at Publicis Sapient. I've completed my bachel
 <p>
   <code>
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+    <img src="https://images.app.goo.gl/M36UQVNEABFAeHsb7" />
     <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/>
+    
   </code> 
 </p>
 
