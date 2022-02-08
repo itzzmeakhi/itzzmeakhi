@@ -23,7 +23,6 @@ I'm currently a Frontend Developer at Publicis Sapient. I've completed my bachel
   <code>
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
     <img src="https://img.icons8.com/color/48/000000/redux.png"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/311px-Nextjs-logo.svg.png" />
     <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
