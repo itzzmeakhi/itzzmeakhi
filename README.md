@@ -7,7 +7,7 @@
 
 I'm currently a Frontend Developer at Publicis Sapient. I've completed my bachelors at Sathyabama University, Chennai. Here's a peek at my professional life timeline!
 
-- Associate Technology L2 [@publicissapient](https://www.publicissapient.com/)
+- Experience Engineer L2 [@publicissapient](https://www.publicissapient.com/)
 - Software Engineer [@hcltechnologies](https://www.hcltech.com/)
 - Business Associate Intern [@cognizant](https://www.cognizant.com/in/en)
 
